@@ -1,8 +1,10 @@
 # Trybe Recipes
 
+![Video](./screenshots/tryberecipes.webm)
+
 ### Sobre:
 
-Projeto de conclusão do Módulo de Front End do curso da Trybe. 
+Projeto de conclusão do Módulo de Front End do curso da Trybe.
 
 O projeto consistia em criar uma aplicação mobile que pudesse auxiliar a pessoa usuária nos momentos de buscas e preparações de drinks e refeições.
 
@@ -14,13 +16,14 @@ Na aplicação, utilizamos ReactJS, ContextAPI para o gerenciamento dos estados 
 
 ### Equipe:
 
-* [Bruno Roja](https://www.linkedin.com/in/brunojlee/)
-* [Eduardo Muchak](https://www.linkedin.com/in/eduardomuchak/)
-* [Leonardo Begnossi](https://www.linkedin.com/in/leonardo-begnossi-41580a127/)
-* [Leonardo Diman](https://www.linkedin.com/in/leonardo-diman-martins-b16439173/)
-* [Rafaela Jordão](https://www.linkedin.com/in/jordaorafaela/)
+- [Bruno Roja](https://www.linkedin.com/in/brunojlee/)
+- [Eduardo Muchak](https://www.linkedin.com/in/eduardomuchak/)
+- [Leonardo Begnossi](https://www.linkedin.com/in/leonardo-begnossi-41580a127/)
+- [Leonardo Diman](https://www.linkedin.com/in/leonardo-diman-martins-b16439173/)
+- [Rafaela Jordão](https://www.linkedin.com/in/jordaorafaela/)
 
 ### Aplicação
+
 [Clique aqui](https://tryberecipes-eduardomuchak.vercel.app/) para visualizar a versão final do nosso projeto no seu navegador.
 Obs.: Necessário habilitar visualização em modo Mobile.
 
@@ -33,46 +36,58 @@ Obs.: Necessário habilitar visualização em modo Mobile.
 
 ### Progresso
 
-- [X] Implementação da lógica para o funcionamento da aplicação
-- [X] Desenvolvimento da interface (Mobile First)
+- [x] Implementação da lógica para o funcionamento da aplicação
+- [x] Desenvolvimento da interface (Mobile First)
 - [ ] Aprimoramento da interface para telas maiores (Tablets e Desktops).
-- [X] Implementação de testes unitários com React Testing Library.
+- [x] Implementação de testes unitários com React Testing Library.
 
 ## Tecnologias utilizadas:
 
-* Context API
-* JavaScript ES6+
-* React.js
-* React Router
-* React Icons (Icon library)
-* React Testing Library (RTL)
-* TailwindCSS
-* Vercel
+- Context API
+- JavaScript ES6+
+- React.js
+- React Router
+- React Icons (Icon library)
+- React Testing Library (RTL)
+- TailwindCSS
+- Vercel
 
 ## Metodologias utilizadas:
 
-* Mobile First
-* Kanban
-* Scrum
+- Mobile First
+- Kanban
+- Scrum
 
 ## Como rodar a aplicação:
 
 Para baixar o código:
+
 ```
 git clone git@github.com:eduardomuchak/19-trybe-recipes.git
 ```
 
 Entre na pasta raiz do projeto:
+
 ```
-cd sd-019-a-project-recipes-app 
+cd sd-019-a-project-recipes-app
 ```
 
 Instale as dependências:
+
 ```
-npm install 
+npm install
 ```
 
 Inicie a aplicação no seu navegador:
+
 ```
-npm start 
+npm start
 ```
+
+## Screenshots:
+
+![Login](./screenshots/loginPage.png)
+![Explore](./screenshots/explorePage.png)
+![Profile](./screenshots/profilePage.png)
+![Recipe Details](./screenshots/recipeDetailsPage.png)
+![GIF](./screenshots/mobile.gif)
