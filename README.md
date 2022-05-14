@@ -14,11 +14,11 @@ Na aplicação, utilizamos ReactJS, ContextAPI para o gerenciamento dos estados 
 
 ### Equipe:
 
-[Bruno Roja](https://www.linkedin.com/in/brunojlee/)
-[Eduardo Muchak](https://www.linkedin.com/in/eduardomuchak/)
-[Leonardo Begnossi](https://www.linkedin.com/in/leonardo-begnossi-41580a127/)
-[Leonardo Diman](https://www.linkedin.com/in/leonardo-diman-martins-b16439173/)
-[Rafaela Jordão](https://www.linkedin.com/in/jordaorafaela/)
+* [Bruno Roja](https://www.linkedin.com/in/brunojlee/)
+* [Eduardo Muchak](https://www.linkedin.com/in/eduardomuchak/)
+* [Leonardo Begnossi](https://www.linkedin.com/in/leonardo-begnossi-41580a127/)
+* [Leonardo Diman](https://www.linkedin.com/in/leonardo-diman-martins-b16439173/)
+* [Rafaela Jordão](https://www.linkedin.com/in/jordaorafaela/)
 
 ### Aplicação
 [Clique aqui](https://tryberecipes-eduardomuchak.vercel.app/) para visualizar a versão final do nosso projeto no seu navegador.
@@ -36,7 +36,7 @@ Obs.: Necessário habilitar visualização em modo Mobile.
 - [X] Implementação da lógica para o funcionamento da aplicação
 - [X] Desenvolvimento da interface (Mobile First)
 - [ ] Aprimoramento da interface para telas maiores (Tablets e Desktops).
-- [ ] Implementação de testes unitários com React Testing Library.
+- [X] Implementação de testes unitários com React Testing Library.
 
 ## Tecnologias utilizadas:
 
