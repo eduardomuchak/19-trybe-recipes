@@ -69,7 +69,7 @@ git clone git@github.com:eduardomuchak/19-trybe-recipes.git
 Entre na pasta raiz do projeto:
 
 ```
-cd sd-019-a-project-recipes-app
+cd 19-trybe-recipes
 ```
 
 Instale as dependências:
