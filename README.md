@@ -1,6 +1,11 @@
 # Trybe Recipes
 
-![Video](./screenshots/tryberecipes.webm)
+<p align="center">
+  <img 
+    src="./screenshots/mobile.gif"
+  >
+</p>
+</br>
 
 ### Sobre:
 
@@ -86,8 +91,26 @@ npm start
 
 ## Screenshots:
 
-![Login](./screenshots/loginPage.png)
-![Explore](./screenshots/explorePage.png)
-![Profile](./screenshots/profilePage.png)
-![Recipe Details](./screenshots/recipeDetailsPage.png)
-![GIF](./screenshots/mobile.gif)
+<p align="center">
+  <img 
+    src="./screenshots/loginPage.png"
+  >
+</p>
+</br>
+<p align="center">
+  <img 
+    src="./screenshots/explorePage.png"
+  >
+</p>
+</br>
+<p align="center">
+  <img 
+    src="./screenshots/profilePage.png"
+  >
+</p>
+</br>
+<p align="center">
+  <img 
+    src="./screenshots/recipeDetailsPage.png"
+  >
+</p>
