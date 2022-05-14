@@ -36,7 +36,6 @@ Obs.: Necessário habilitar visualização em modo Mobile.
 
 ### Notas de Desenvolvimento:
 
-- This project is still under development, I'm implementing integration tests.
 - O projeto ainda está em desenvolvimento. Ainda não está implementado o modo desktop e o modo tablet ainda não está como a equipe deseja.
 
 ### Progresso
