@@ -7,19 +7,19 @@
 </p>
 </br>
 
-### Sobre:
+### About:
 
 Projeto de conclusão do Módulo de Front End do curso da Trybe.
 
-O projeto consistia em criar uma aplicação mobile que pudesse auxiliar a pessoa usuária nos momentos de buscas e preparações de drinks e refeições.
+This project consists of creating a mobile application that can help a user when searching and preparing drinks and meals.
 
-Desde o início do projeto sempre mantivemos muito respeito e colaboração entre todas as pessoas integrantes da equipe. Também foi um enorme desafio de organização e comunicação manter todas as pessoas alinhadas com o andamento do projeto, pois afinal, foram 87 requisitos para serem concluídos.
+Since the beginning of the project, we have always maintained a lot of respect and collaboration between all the people who are part of the team. It was also a huge organizational and communication challenge to keep all people aligned with the progress of the project, because after all, there were 87 requirements to be completed.
 
-Para isso, utilizamos de algumas metodologias ágeis como Kanban e Scrum para manter o andamento do projeto mais eficiente e transparente. A experiência foi excelente e de muito aprendizado também.
+So we use some agile methodologies such as Kanban and Scrum to keep the project progress more efficient and transparent. The experience was excellent and we learned a lot from it.
 
-Na aplicação, utilizamos ReactJS, ContextAPI para o gerenciamento dos estados globais, TailwindCSS para a estilização com maior atenção para a acessibilidade nos padrões WCAG 2.1 e React Testing Library para os testes da aplicação. Além disso, tivemos que lidar com informações de 2 API's diferentes (TheCocktailDB e TheMealDB) para abastecer a aplicação com as informações das receitas.
+In the application, we use ReactJS, ContextAPI for managing global states, TailwindCSS for styling paying attention to accessibility in WCAG 2.1 standards and React Testing Library for application testing. We also had to deal with information from 2 different API's (TheCocktailDB and TheMealDB) to supply the application with the recipe information.
 
-### Equipe:
+### Team:
 
 - [Bruno Roja](https://www.linkedin.com/in/brunojlee/)
 - [Eduardo Muchak](https://www.linkedin.com/in/eduardomuchak/)
@@ -27,25 +27,25 @@ Na aplicação, utilizamos ReactJS, ContextAPI para o gerenciamento dos estados 
 - [Leonardo Diman](https://www.linkedin.com/in/leonardo-diman-martins-b16439173/)
 - [Rafaela Jordão](https://www.linkedin.com/in/jordaorafaela/)
 
-### Aplicação
+### Aplication
 
-[Clique aqui](https://tryberecipes-eduardomuchak.vercel.app/) para visualizar a versão final do nosso projeto no seu navegador.
-Obs.: Necessário habilitar visualização em modo Mobile.
+[Click here](https://tryberecipes-eduardomuchak.vercel.app/) to view the final version of our project in your browser.
+Note: It is necessary to enable the mobile view mode if you're on a computer.
 
-[Clique aqui](https://www.figma.com/file/XQlM0bZO6lCxGkMJs4XZNw/Trybe-Recipes) para visualizar o Figma desenvolvido para a parte visual da aplicação.
+[Click here](https://www.figma.com/file/XQlM0bZO6lCxGkMJs4XZNw/Trybe-Recipes) to view Figma developed for the visual part of the application.
 
-### Notas de Desenvolvimento:
+### Development Notes:
 
-- O projeto ainda está em desenvolvimento. Ainda não está implementado o modo desktop e o modo tablet ainda não está como a equipe deseja.
+- The project is still under development. Desktop mode is not yet implemented and tablet mode is still not as the team wants.
 
-### Progresso
+### Progress
 
-- [x] Implementação da lógica para o funcionamento da aplicação
-- [x] Desenvolvimento da interface (Mobile First)
-- [ ] Aprimoramento da interface para telas maiores (Tablets e Desktops).
-- [x] Implementação de testes unitários com React Testing Library.
+- [x] Programming logic for application operation
+- [x] Interface development (Mobile First)
+- [ ] Interface improvement for bigger screens (Tablets and Desktops).
+- [x] Implementing unit tests with React Testing Library.
 
-## Tecnologias utilizadas:
+## Technologies:
 
 - Context API
 - JavaScript ES6+
@@ -56,33 +56,33 @@ Obs.: Necessário habilitar visualização em modo Mobile.
 - TailwindCSS
 - Vercel
 
-## Metodologias utilizadas:
+## Methodologies:
 
 - Mobile First
 - Kanban
 - Scrum
 
-## Como rodar a aplicação:
+## How to run the application:
 
-Para baixar o código:
+To download the code:
 
 ```
 git clone git@github.com:eduardomuchak/19-trybe-recipes.git
 ```
 
-Entre na pasta raiz do projeto:
+Enter the project root folder:
 
 ```
 cd 19-trybe-recipes
 ```
 
-Instale as dependências:
+Install the dependencies:
 
 ```
 npm install
 ```
 
-Inicie a aplicação no seu navegador:
+Launch the application in your browser:
 
 ```
 npm start
