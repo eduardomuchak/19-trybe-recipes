@@ -9,8 +9,6 @@
 
 ### About:
 
-Projeto de conclusão do Módulo de Front End do curso da Trybe.
-
 This project consists of creating a mobile application that can help a user when searching and preparing drinks and meals.
 
 Since the beginning of the project, we have always maintained a lot of respect and collaboration between all the people who are part of the team. It was also a huge organizational and communication challenge to keep all people aligned with the progress of the project, because after all, there were 87 requirements to be completed.
